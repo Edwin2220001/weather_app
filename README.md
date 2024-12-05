@@ -6,4 +6,12 @@ The weather app was developed using JavaScript and HTML. In the Html page, the i
 A simple weather application that provides real-time weather data using an intuitive interface. This app is built with HTML, CSS, and JavaScript and demonstrates modular JavaScript practices.
 
 ## Project Structure
-project/ ├── index.html # Main HTML file; serves as the entry point for the app ├── script.js # Main JavaScript file handling the app logic ├── external.js # External utility functions or third-party integrations ├── http.js # HTTP utility functions for API requests ├── weather-data.js # Handles weather-related data parsing and processing ├── style.css # CSS file for styling the application
+
+weather-app/
+├── index.html
+├── script.js                             
+├── external.js
+├── http.js
+├── weather-data.js      
+├── style.css       
+├── README.md
